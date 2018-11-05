@@ -3,7 +3,7 @@ import com.google.gson.GsonBuilder;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class JsonReader {
+public class JsonQueue {
 
     //creates list of object LocationInfo//
     public static ArrayList<LocationInfo> readJson(String IOU){
